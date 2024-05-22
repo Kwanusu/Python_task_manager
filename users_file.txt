@@ -1,0 +1,21 @@
+{
+    "id": 3,
+    "name": "George",
+    "email": "ge@mail",
+    "isActive": true
+}{
+    "id": 2,
+    "name": "Jane",
+    "email": "j@mail",
+    "isActive": true
+}{
+    "id": 3,
+    "name": "john",
+    "email": "jo@mail",
+    "isActive": true
+}{
+    "id": 4,
+    "name": "jack",
+    "email": "ja@mail",
+    "isActive": true
+}

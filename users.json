@@ -1,0 +1,32 @@
+[
+    {
+        "id": 5,
+        "name": "Zoe",
+        "email": "Zo@mail",
+        "isActive": true
+    },
+    {
+        "id": 1,
+        "name": "Kwanusu",
+        "email": "kwan@mail",
+        "isActive": false
+    },
+    {
+        "id": 1,
+        "name": "Joseph",
+        "email": "jos@mail",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "name": "Vincent",
+        "email": "vin@mail",
+        "isActive": true
+    },
+    {
+        "id": 6,
+        "name": "Bona",
+        "email": "bon@gmail.com",
+        "isActive": true
+    }
+]
